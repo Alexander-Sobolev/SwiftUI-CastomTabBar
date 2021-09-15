@@ -11,6 +11,7 @@
 		B44CFD7C26EF466B000B62B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44CFD7B26EF466B000B62B7 /* ContentView.swift */; };
 		B44CFD7E26EF466C000B62B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44CFD7D26EF466C000B62B7 /* Assets.xcassets */; };
 		B44CFD8126EF466C000B62B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44CFD8026EF466C000B62B7 /* Preview Assets.xcassets */; };
+		B47F6CCE26F2153100EA6A12 /* iPhone 12 Pro.png in Resources */ = {isa = PBXBuildFile; fileRef = B47F6CCD26F2153100EA6A12 /* iPhone 12 Pro.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B44CFD7D26EF466C000B62B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B44CFD8026EF466C000B62B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B44CFD8226EF466C000B62B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B47F6CCD26F2153100EA6A12 /* iPhone 12 Pro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 12 Pro.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				B44CFD7926EF466B000B62B7 /* SwiftUICastomTabBarApp.swift */,
 				B44CFD7B26EF466B000B62B7 /* ContentView.swift */,
 				B44CFD7D26EF466C000B62B7 /* Assets.xcassets */,
+				B47F6CCD26F2153100EA6A12 /* iPhone 12 Pro.png */,
 				B44CFD8226EF466C000B62B7 /* Info.plist */,
 				B44CFD7F26EF466C000B62B7 /* Preview Content */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B47F6CCE26F2153100EA6A12 /* iPhone 12 Pro.png in Resources */,
 				B44CFD8126EF466C000B62B7 /* Preview Assets.xcassets in Resources */,
 				B44CFD7E26EF466C000B62B7 /* Assets.xcassets in Resources */,
 			);
