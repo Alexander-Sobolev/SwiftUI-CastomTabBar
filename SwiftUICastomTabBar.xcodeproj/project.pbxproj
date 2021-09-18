@@ -12,6 +12,7 @@
 		B44CFD7E26EF466C000B62B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44CFD7D26EF466C000B62B7 /* Assets.xcassets */; };
 		B44CFD8126EF466C000B62B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B44CFD8026EF466C000B62B7 /* Preview Assets.xcassets */; };
 		B463F50626F6693B004EDA5C /* Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B463F50526F6693B004EDA5C /* Screen.png */; };
+		B463F50826F66B4B004EDA5C /* Simulator Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B463F50726F66B4B004EDA5C /* Simulator Screen.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B44CFD8026EF466C000B62B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B44CFD8226EF466C000B62B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B463F50526F6693B004EDA5C /* Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen.png; sourceTree = "<group>"; };
+		B463F50726F66B4B004EDA5C /* Simulator Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				B44CFD7B26EF466B000B62B7 /* ContentView.swift */,
 				B44CFD7D26EF466C000B62B7 /* Assets.xcassets */,
 				B463F50526F6693B004EDA5C /* Screen.png */,
+				B463F50726F66B4B004EDA5C /* Simulator Screen.png */,
 				B44CFD8226EF466C000B62B7 /* Info.plist */,
 				B44CFD7F26EF466C000B62B7 /* Preview Content */,
 			);
@@ -132,6 +135,7 @@
 				B463F50626F6693B004EDA5C /* Screen.png in Resources */,
 				B44CFD8126EF466C000B62B7 /* Preview Assets.xcassets in Resources */,
 				B44CFD7E26EF466C000B62B7 /* Assets.xcassets in Resources */,
+				B463F50826F66B4B004EDA5C /* Simulator Screen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
