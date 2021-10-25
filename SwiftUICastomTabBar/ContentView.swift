@@ -65,7 +65,7 @@ struct ContentView: View {
                 )
             }
         }.background(Color("Color")).edgesIgnoringSafeArea(.top)
-    } 
+    }  
 }
 
 struct ContentView_Previews: PreviewProvider {
